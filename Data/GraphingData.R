@@ -1,4 +1,6 @@
-# Remember to change the working directory or this will not work
+# This graphs the mean and standard deviation of the data provided
+# Saves the data as a picture in the same directory
+# Remember to change the name from nucleolus to whatever you queried
 
 path = file.choose()
 
